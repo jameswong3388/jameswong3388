@@ -15,7 +15,8 @@ I'm James Wong, a passionate self-taught full stack web developer and a freelanc
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/87692325/166142629-0c2f86c4-85e9-44eb-90e0-057ec2871c49.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<code><img height="20" src="https://user-images.githubusercontent.com/87692325/166168060-a6dff312-b046-4009-b988-51c2a521ca48.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/87692325/166168078-24eb05f7-53de-48d4-9b80-a74da001bde6.png"></code>
 
 📫 How to reach me:
 
