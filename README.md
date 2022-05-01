@@ -4,7 +4,7 @@ I'm James Wong, a passionate self-taught full stack web developer and a freelanc
 
 🔭 I’m currently working on
 
-- [Crowdstage](https://crowdstage.xyz/) - A platform for `crowd` to showcase their works and hire theb best from them.
+- [Crowdstage](https://crowdstage.xyz/) - A platform for `crowd` to showcase their works and hire the best from them.
 
 📫 How to reach me:
 
