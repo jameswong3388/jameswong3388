@@ -20,8 +20,7 @@ I'm James Wong, a passionate self-taught full stack web developer and a freelanc
 
 📫 How to reach me:
 
-- [Email](mailto:James@crwodstage.onmicrosoft.com)
-- [Instagaram](https://www.instagram.com/chaifuu/)
+- [Email](mailto:James@crwodstage.onmicrosoft.com) - `James@crwodstage.onmicrosoft.com`
 - [Discord](https://discord.gg/8jBQJ7Zq) - Look for `suprême_GuNz` or add me with `suprême_GuNz#9742`
 - [LinkedIn](https://www.linkedin.com/in/wongchaifuu/)
 
