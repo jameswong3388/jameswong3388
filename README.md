@@ -12,7 +12,7 @@ Languages and Tools:
 
 How to reach me:
 
-[![Socials](https://skillicons.dev/icons?i=discord,linkedin,twitter&perline=1)](https://skillicons.dev)
+[![Socials](https://skillicons.dev/icons?i=discord,linkedin,twitter)](https://skillicons.dev)
 
 - [Email](mailto:James@crwodstage.onmicrosoft.com) - `James@crwodstage.onmicrosoft.com`
 - [Discord](https://discord.gg/8jBQJ7Zq) - Look for `suprême_GuNz` or add me with `suprême_GuNz#9742`
