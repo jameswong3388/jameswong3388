@@ -2,24 +2,22 @@
 
 #### A passionate self-taught full stack web developer and a freelance software engineer from Malaysia. 
 
-I’m currently working on
+I’m currently working on :
 
 - [Crowdstage](https://crowdstage.xyz/) - A platform for `crowd` to showcase their works and hire the best from them.
 
-Languages and Tools:
+Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,php,laravel,vue,nodejs,mysql,idea,git,stackoverflow)](https://github.com/james-wong123)
 
-How to reach me:
-
-[![Socials](https://skillicons.dev/icons?i=discord,twitter,linkedin)](https://github.com/james-wong123)
+How to reach me :
 
 - [Email](mailto:James@crwodstage.onmicrosoft.com) - `James@crwodstage.onmicrosoft.com`
 - [Discord](https://discord.gg/8jBQJ7Zq) - Look for `suprême_GuNz` or add me with `suprême_GuNz#9742`
 - [Twitter](https://twitter.com/jameswong3388)
 - [LinkedIn](https://www.linkedin.com/in/wongchaifuu/)
 
-My github stats
+My github stats:
 
 ![James wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-wong123&show_icons=true&theme=gotham&count_private=true)
 
