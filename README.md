@@ -18,7 +18,10 @@ A passionate self-taught full stack web developer and a freelance software engin
 - [LinkedIn](https://www.linkedin.com/in/wongchaifuu/)
 
 📈 My github stats
-<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=james-wong123&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+![James wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-wong123&show_icons=true&theme=gotham&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-wong123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=james-wong123)](https://git.io/streak-stats)
 
