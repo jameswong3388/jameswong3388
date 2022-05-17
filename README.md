@@ -8,11 +8,11 @@ I’m currently working on
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,php,laravel,vue,nodejs,mysql,idea,git,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,php,laravel,vue,nodejs,mysql,idea,git,stackoverflow)](https://github.com/james-wong123)
 
 How to reach me:
 
-[![Socials](https://skillicons.dev/icons?i=discord,linkedin,twitter)](https://skillicons.dev)
+[![Socials](https://skillicons.dev/icons?i=discord,twitter,linkedin)](https://github.com/james-wong123)
 
 - [Email](mailto:James@crwodstage.onmicrosoft.com) - `James@crwodstage.onmicrosoft.com`
 - [Discord](https://discord.gg/8jBQJ7Zq) - Look for `suprême_GuNz` or add me with `suprême_GuNz#9742`
