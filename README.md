@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/87692325/168801884-7996266d-a2eb-4c7f-9dfc-5eb8e3960aad.png)
 
-I'm James Wong, a passionate self-taught full stack web developer and a freelance software engineer from Malaysia. 
+A passionate self-taught full stack web developer and a freelance software engineer from Malaysia. 
 
 🔭 I’m currently working on
 
@@ -8,7 +8,7 @@ I'm James Wong, a passionate self-taught full stack web developer and a freelanc
 
 🌱 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,laravel,vue,nodejs,mysql,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,laravel,vue,nodejs,mysql,idea,git)](https://skillicons.dev)
 
 📫 How to reach me:
 
