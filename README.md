@@ -1,5 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=james-wong123&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
+![image](https://user-images.githubusercontent.com/87692325/168801884-7996266d-a2eb-4c7f-9dfc-5eb8e3960aad.png)
 
 I'm James Wong, a passionate self-taught full stack web developer and a freelance software engineer from Malaysia. 
 
