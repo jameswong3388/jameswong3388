@@ -1,4 +1,5 @@
-### Hi there 👋
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=james-wong123&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 
 I'm James Wong, a passionate self-taught full stack web developer and a freelance software engineer from Malaysia. 
 
@@ -8,15 +9,7 @@ I'm James Wong, a passionate self-taught full stack web developer and a freelanc
 
 🌱 Languages and Tools:
 
-- <code><img height="20" src="https://user-images.githubusercontent.com/87692325/166142517-5cef2398-be8f-444a-aa0a-9a8589bd15b8.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/87692325/166142587-d766ee7a-594d-4432-8153-f8753aa562ba.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/87692325/166142629-0c2f86c4-85e9-44eb-90e0-057ec2871c49.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/87692325/166168060-a6dff312-b046-4009-b988-51c2a521ca48.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/87692325/166168078-24eb05f7-53de-48d4-9b80-a74da001bde6.png"></code>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,laravel,vue,nodejs,mysql,idea)](https://skillicons.dev)
 
 📫 How to reach me:
 
@@ -27,6 +20,9 @@ I'm James Wong, a passionate self-taught full stack web developer and a freelanc
 
 📈 My github stats
 <p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=james-wong123&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=james-wong123)](https://git.io/streak-stats)
+
 
 <!--
 **james-wong123/james-wong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
