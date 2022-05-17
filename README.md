@@ -8,7 +8,7 @@ A passionate self-taught full stack web developer and a freelance software engin
 
 🌱 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,php,laravel,vue,nodejs,mysql,idea,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,php,laravel,vue,nodejs,mysql,idea,git,stackoverflow)](https://skillicons.dev)
 
 📫 How to reach me:
 
