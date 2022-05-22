@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/87692325/168801884-7996266d-a2eb-4c7f-9dfc-5eb8e3960aad.png)
 
-#### A passionate self-taught full-stack web developer who loves Laravel and TailwindCss
+#### A passionate self-taught full-stack web developer and a Laravel artisan.
 
 I’m currently working on :
 
