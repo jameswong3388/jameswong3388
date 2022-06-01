@@ -4,7 +4,7 @@
 
 I’m currently working on :
 
-- [Crowdstage](https://crowdstage.xyz/) - A platform for `crowd` to showcase their works and hire the best from them.
+- [Crowdstage](https://crowdstage.xyz/) - A platform for `crowd` to showcase their works and hire the best from them. Coming soon ~
 
 ![crowdstage_preview](https://user-images.githubusercontent.com/87692325/169006250-368de6d4-ff3a-40df-836e-6d11803ee434.png)
 
