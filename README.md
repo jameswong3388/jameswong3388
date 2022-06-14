@@ -22,7 +22,7 @@ How to reach me :
 
 My github stats:
 
-![James wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-wong123&show_icons=true&theme=gotham&count_private=true)
+![James wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameswong3388&show_icons=true&theme=gotham&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jameswong3388)](https://git.io/streak-stats)
 
