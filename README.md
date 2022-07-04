@@ -8,9 +8,13 @@ I’m currently working on :
 
 ![crowdstage_preview](https://user-images.githubusercontent.com/87692325/177058951-d955c92b-cf34-4e92-b092-ab97da87fa6f.png)
 
-Languages and Tools :
+Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,php,laravel,vue,nodejs,mysql,idea,git,stackoverflow)](https://github.com/jameswong3388)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vite,php,laravel,vue,nodejs,mysql,redis,md,)](https://github.com/jameswong3388)
+
+Tools : 
+
+[![My Tools](https://skillicons.dev/icons?i=docker,git,github,nginx,heroku,idea,stackoverflow,figma,)](https://github.com/jameswong3388)
 
 How to reach me :
 
