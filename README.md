@@ -6,7 +6,7 @@ I’m currently working on :
 
 - [Crowdstage](https://crowdstage.xyz/) - A platform for `crowd` to showcase their works and hire the best from them. Coming soon ~
 
-![crowdstage_preview](https://user-images.githubusercontent.com/87692325/177058951-d955c92b-cf34-4e92-b092-ab97da87fa6f.png)
+![crowdstage_preview](https://user-images.githubusercontent.com/87692325/190880602-df1d09ab-6f07-4507-8c17-b419c381bf47.png)
 
 Skills :
 
