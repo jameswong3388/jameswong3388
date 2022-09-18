@@ -10,7 +10,7 @@ I’m currently working on :
 
 Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vite,php,laravel,vue,nodejs,mysql,redis,md,)](https://github.com/jameswong3388)
+[![My Skills](https://skillicons.dev/icons?i=py, js,html,css,tailwind,vite,php,laravel,vue,nodejs,mysql,redis,md,)](https://github.com/jameswong3388)
 
 Tools : 
 
