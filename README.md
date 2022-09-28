@@ -8,8 +8,7 @@ I’m currently working on :
 
 ![crowdstage_preview](https://user-images.githubusercontent.com/87692325/190880602-df1d09ab-6f07-4507-8c17-b419c381bf47.png)
 
-- [Pyneer](https://github.com/jameswong3388/Pyneer) - Pyneer is a minimal scaffolding designed to help students with their school's Python assignments. It comes with a MongoDB-like API out of the box, so you can focus on what's important
-
+- [Pyneer](https://github.com/jameswong3388/Pyneer) - Pyneer is a minimal scaffolding designed to help students with their school's Python assignments. It comes with a MongoDB-like API out of the box, so you can focus on what's important to be done !
 Skills :
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,tailwind,vite,php,laravel,vue,nodejs,mysql,redis,md,)](https://github.com/jameswong3388)
