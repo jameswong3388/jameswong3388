@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/87692325/168801884-7996266d-a2eb-4c7f-9dfc-5eb8e3960aad.png)
 
-#### A passionate self-taught full-stack web artisan.
+#### A passionate self-taught full-stack web artisan and AI enthusiast.
 
 I’m currently working on :
 
