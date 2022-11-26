@@ -17,7 +17,7 @@ Tools :
 How to reach me :
 
 - [Email](mailto:wongjames3388@gmail.com) - `wongjames3388@gmail.com`
-- [Discord](https://discord.gg/8jBQJ7Zq) - Look for `suprême_GuNz` or add me with `suprême_GuNz#9742`
+- Discord - add me `jameswongz#9742`
 - [Twitter](https://twitter.com/jameswong3388)
 - [LinkedIn](https://www.linkedin.com/in/jameswong3388/)
 
