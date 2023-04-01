@@ -4,7 +4,7 @@
 
 I’m currently working on :
 
-- [Chrysie](https://chrysie.jameswong.tech) - A virtual assistant for all things related to chrysanthemums !
+- Chrysie - A virtual assistant for all things related to chrysanthemums !
 - [Atlantis](https://atlantis.jameswong.tech) - The hidden oasis you always wanted.
 
 Skills :
