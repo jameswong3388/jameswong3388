@@ -9,7 +9,7 @@ I’m currently working on :
 
 Tools : 
 
-[![My Tools](https://skillicons.dev/icons?i=docker,git,github,nginx,vercel,idea,stackoverflow,figma,)](https://github.com/jameswong3388)
+[![My Tools](https://skillicons.dev/icons?i=docker,git,github,vercel,idea,stackoverflow,figma,supabase)](https://github.com/jameswong3388)
 
 How to reach me :
 
