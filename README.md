@@ -7,10 +7,6 @@ I’m currently working on :
 - Chrysie - A virtual assistant for all things related to chrysanthemums !
 - [Atlantis](https://atlantis.jameswong.tech) - The hidden oasis you always wanted.
 
-Skills :
-
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,tailwind,vite,php,laravel,vue,nodejs,mysql,redis,md,)](https://github.com/jameswong3388)
-
 Tools : 
 
 [![My Tools](https://skillicons.dev/icons?i=docker,git,github,nginx,vercel,idea,stackoverflow,figma,)](https://github.com/jameswong3388)
