@@ -4,7 +4,7 @@
 
 I’m currently working on :
 
-- [Chrysie](https://chrysie.jameswong.tech/) - A virtual assistant for all things related to chrysanthemums !
+- Verax AI - An Interview Analyst!
 
 Tools : 
 
