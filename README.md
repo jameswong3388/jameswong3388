@@ -12,7 +12,7 @@ Tools :
 
 How to reach me :
 
-- [Email](mailto:james@jameswong.tech) - `james@jameswong.tech`
+- [Email](mailto:jameswong0517@gmail.com) - `jameswong0517@gmail.com`
 - Discord - Chat with me `jameswong3388` !
 - [Twitter](https://twitter.com/jameswong3388)
 - [LinkedIn](https://www.linkedin.com/in/jameswong3388/)
