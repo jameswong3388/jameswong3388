@@ -4,7 +4,7 @@
 
 I’m currently working on :
 
-- Verax AI - An Interview Analyst!
+- Verax.AI - Elevate your hiring process with Next-level recruitment tool 🎉
 
 Tools : 
 
