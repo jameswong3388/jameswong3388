@@ -4,6 +4,7 @@
 
 I’m currently working on :
 
+- Oncoos.ai - One stop solution for Cervical Cancer screening 🌱
 - Verax.AI - Elevate your hiring process with Next-level recruitment tool 🎉
 
 Tools : 
