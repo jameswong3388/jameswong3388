@@ -22,7 +22,7 @@ My github stats:
 
 ![James wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameswong3388&show_icons=true&theme=gotham&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jameswong3388)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jameswong3388)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameswong3388&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
