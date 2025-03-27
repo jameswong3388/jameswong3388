@@ -18,12 +18,13 @@ How to reach me :
 - [Twitter](https://twitter.com/jameswong3388)
 - [LinkedIn](https://www.linkedin.com/in/jameswong3388/)
 
-My github stats:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jameswong3388/jameswong3388/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jameswong3388/jameswong3388/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/jameswong3388/jameswong3388/output/github-snake.svg" />
 </picture>
+
+My github stats:
 
 ![James wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jameswong3388&show_icons=true&theme=gotham&count_private=true)
 
