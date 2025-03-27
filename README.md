@@ -25,6 +25,13 @@ My github stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=jameswong3388)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameswong3388&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jameswong3388/jameswong3388/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jameswong3388/jameswong3388/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jameswong3388/jameswong3388/output/github-snake.svg" />
+</picture>
+
 <!--
 **jameswong3388/jameswong3388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
