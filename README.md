@@ -19,7 +19,6 @@ How to reach me :
 - [LinkedIn](https://www.linkedin.com/in/jameswong3388/)
 
 My github stats:
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jameswong3388/jameswong3388/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jameswong3388/jameswong3388/output/github-snake.svg" />
